@@ -18,6 +18,5 @@ div.main {
     justify-content: center;
     align-self: center;
     margin: auto;
-    position:;
 }
 </style>
